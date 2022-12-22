@@ -1,0 +1,21 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo{
+    width: 5rem;
+}
+header{
+    background-color: rgb(68, 114, 155);
+}
+body{
+    background-color: rgb(217, 218, 214);
+}
+.inicio{
+    width: 40rem;
+}
+.foto{
+    width: 30rem;
+}
+section>img{
+    width: 40rem;
+}
